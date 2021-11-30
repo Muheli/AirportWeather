@@ -1,0 +1,3 @@
+cat "/Users/Muheli/Library/Application Support/iPhone Simulator/6.1/Applications/0B8EFCC9-CCA6-44BC-B3EF-60B0799D31D9/Documents/PickerList.plist"
+
+cd "/Users/Muheli/Library/Application Support/iPhone Simulator/6.1/Applications/0B8EFCC9-CCA6-44BC-B3EF-60B0799D31D9/Documents/"
